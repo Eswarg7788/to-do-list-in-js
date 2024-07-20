@@ -1,0 +1,22 @@
+.list{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+button{
+    background-color: rgb(24, 24, 86);
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 35px;
+    position: relative;
+    left: 20px;
+    
+}
+input{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+}
+h1{
+    color: rgb(24, 24, 86);
+}
